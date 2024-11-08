@@ -54,10 +54,8 @@ This is a simple yet powerful password generator application built with React an
 
 2. Follow the on-screen instructions to generate a password.
 
-Check Demo <a href="https://password-gen-react-tailwind-gold.vercel.app/" target="_blank" rel="noopener noreferrer">
-  here
-</a>
-
+Check Demo From
+[here](https://password-gen-react-tailwind-gold.vercel.app/)
 
 ### Contributing
 
