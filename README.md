@@ -1,5 +1,7 @@
 # React Password-Generator using Tailwind-CSS
 
+![Password Generator](public/image.png)
+
 ## Description
 
 This is a simple yet powerful password generator application built with React and styled using Tailwind CSS. It allows users to create secure passwords based on user-defined criteria, such as length and character types. The application provides an easy-to-use interface for generating passwords that include uppercase letters, lowercase letters, numbers, and special characters. Additionally, users can quickly copy the generated password to their clipboard for convenience.
@@ -52,7 +54,10 @@ This is a simple yet powerful password generator application built with React an
 
 2. Follow the on-screen instructions to generate a password.
 
-Check Demo From 
+Check Demo <a href="https://password-gen-react-tailwind-gold.vercel.app/" target="_blank" rel="noopener noreferrer">
+  here
+</a>
+
 
 ### Contributing
 
